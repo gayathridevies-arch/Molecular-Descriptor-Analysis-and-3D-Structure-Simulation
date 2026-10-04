@@ -2,7 +2,7 @@
 Python workflow for molecular descriptor calculation, drug-likeness filtering, property analysis, and 3D structure generation.
 # Computational Molecular Property Analysis & 3D Structural Modeling Toolkit
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gayathridevies-arch/Molecular-Descriptor-Analysis-and-3D-Structure-Simulation
+!Open In Colab(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gayathridevies-arch/Molecular-Descriptor-Analysis-and-3D-Structure-Simulation
 /blob/main/Molecular Descriptor Analysis and 3D Structure Simulation.ipynb)
 
 A Python-based computational chemistry workflow that processes molecular blueprints (SMILES), calculates physicochemical descriptors, applies medicinal chemistry screening rules (Lipinski's Rule of Five and Veber's criteria), performs statistical data analysis, and executes 3D molecular geometry generation with interactive visualization.
