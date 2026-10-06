@@ -60,6 +60,4 @@ view.setStyle({"stick": {}})
 view.zoomTo()
 view.show()
 
-## 3D Structural Preview
 
-![3D Conformation Render](molecule_3d.png)
